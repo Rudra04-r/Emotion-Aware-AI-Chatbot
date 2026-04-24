@@ -1,2 +1,16 @@
-# Emotion-Aware-AI-Chatbot
-Emotion-aware conversational AI system using transformer-based NLP for emotion detection, empathetic response generation, and real-time analytics dashboard.
+# Emotion-Aware AI Chatbot 🤖
+
+An advanced conversational AI system that detects user emotions and generates intelligent, empathetic responses.
+
+## 🚀 Features
+- Emotion detection using transformer models
+- Emotion-aware response generation
+- Real-time chat interface (Gradio)
+- Emotion analytics dashboard (visualization)
+
+## 🧠 Technologies Used
+- Python
+- PyTorch
+- HuggingFace Transformers
+- Gradio
+- Matplotlib
